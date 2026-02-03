@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaobing Chen's Website"
 title_separator          : "-"
 name                     : &name "Xiaobing Chen"
-description              : &description "Research Scientist at Meta Platforms Inc. | Ph.D. from LSU"
+description              : &description "Research Scientist at Meta | Orchestrating Efficient, Collaborative, and Distributed AI."
 url                      : https://j-bing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "J-BING/j-bing.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaobing Chen"
   avatar           : "profile.png"
-  bio              : "Research Scientist at Meta Platforms Inc. | Ph.D. from LSU"
+  bio              : "Research Scientist at Meta. I build systems that make AI collaborative, efficient, and resource-aware."
   location         : "Baton Rouge, LA"
   employer         :
   pubmed           : 

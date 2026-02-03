@@ -11,20 +11,19 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Electrical Engineering**, Louisiana State University, Feb. 2021 -- Aug. 2025 (Expected)
+* **Ph.D. in Electrical Engineering**, Louisiana State University, Feb. 2021 -- Aug. 2025
   * Advisor: Prof. Xiangwei Zhou
+  * Dissertation: *[Insert Dissertation Title if known, otherwise leave as is]*
 * **M.E. in Control Science and Engineering**, University of Electronic Science and Technology of China, Sept. 2017 -- June 2020
   * Advisor: Prof. Wenfeng Zheng
 * **B.E. in Electronic Information Engineering**, University of Electronic Science and Technology of China, Sept. 2013 -- June 2017
 
 Research Interests
 ======
-* Artificial Intelligence (AI), Machine Learning (ML)
-* Federated Learning, Distributed Learning
-* Self-supervised Learning, Contrastive Learning
-* Internet of Things (IoT)
-* Wireless Communication
-* Game Theory
+* **Collaborative Intelligence**: Federated Learning, Distributed Optimization, Game Theory.
+* **Foundation Models**: Large Language Models (LLMs), Multi-Modal Alignment (Text/Time-Series/Vision).
+* **System Optimization**: Resource-Aware AI, IoT, Wireless Communication, Scheduling.
+* **Learning Paradigms**: Self-supervised Learning, Contrastive Learning, Meta-Learning.
 
 Professional Experience
 ======
