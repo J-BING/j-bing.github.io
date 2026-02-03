@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research & Publications"
+title: "Research & Publications | Xiaobing Chen"
 permalink: /publications/
 author_profile: true
 ---

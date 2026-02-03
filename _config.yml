@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaobing Chen's Website"
-title_separator          : "-"
+title                    : "Xiaobing Chen | Research Scientist at Meta"
+title_separator          : "|"
 name                     : &name "Xiaobing Chen"
-description              : &description "Research Scientist at Meta | Orchestrating Efficient, Collaborative, and Distributed AI."
+description              : &description "Official website of Xiaobing Chen, Research Scientist at Meta. Expert in Federated Learning, LLMs, and Collaborative AI."
 url                      : https://j-bing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "J-BING/j-bing.github.io"
@@ -66,9 +66,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  name: Xiaobing Chen
+  links:
+    - https://www.linkedin.com/in/xiaobing-chen-85710b284
+    - https://scholar.google.com/citations?user=zwgssHUAAAAJ&hl=en
+    - https://github.com/J-BING
+    - https://orcid.org/0000-0002-7218-4318
 
 
 # Analytics
