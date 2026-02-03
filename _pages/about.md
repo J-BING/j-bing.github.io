@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Xiaobing's website. I'm Xiaobing Chen, a EE Ph.D. student at Louisiana State University (LSU), Baton Rouge, United States, supervised by [Prof. Xiangwei Zhou](https://www.ece.lsu.edu/xwzhou/). I'm interested in distributed computation, federated learning, representation learning, and other advanced modern learning schemes addressing the resource-limited computation and collaborative computation issues existing in the academy and industries. 
+Welcome to Xiaobing's website. I am a Research Scientist at **Meta Platforms Inc.** (Menlo Park, United States). I received my Ph.D. in Electrical Engineering from **Louisiana State University (LSU)**, Baton Rouge, United States, where I was supervised by [Prof. Xiangwei Zhou](https://www.ece.lsu.edu/xwzhou/).
 
-I received a master's degree in Control Science and Engineering and a bachelor's degree in Electrical Engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2017 and 2020, respectively. During that time, I became interested in machine learning and worked on representation learning and cross-modality feature fusion on the Visual Question Answering (VQA).
+My research interests include Artificial Intelligence (AI), Machine Learning (ML), Federated Learning, Distributed Learning, Self-supervised Learning, Internet of Things (IoT), Wireless Communication, and Game Theory.
 
-
+Previously, I received my master's degree in Control Science and Engineering and bachelor's degree in Electronic Information Engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2020 and 2017, respectively.

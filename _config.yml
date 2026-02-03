@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaobing Chen's Website"
 title_separator          : "-"
 name                     : &name "Xiaobing Chen"
-description              : &description "I am pursuing EE Ph.D. degree at Louisiana State University."
+description              : &description "Research Scientist at Meta Platforms Inc. | Ph.D. from LSU"
 url                      : https://j-bing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "J-BING/j-bing.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaobing Chen"
   avatar           : "profile.png"
-  bio              : "Currently Pursuing EE Ph.D. degree at Louisiana State University."
+  bio              : "Research Scientist at Meta Platforms Inc. | Ph.D. from LSU"
   location         : "Baton Rouge, LA"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xiaobing-chen-85710b284"
   orcid            : "https://orcid.org/0000-0002-7218-4318"
   pinterest        :
   soundcloud       :
