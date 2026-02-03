@@ -13,7 +13,6 @@ Education
 ======
 * **Ph.D. in Electrical Engineering**, Louisiana State University, Feb. 2021 -- Aug. 2025
   * Advisor: Prof. Xiangwei Zhou
-  * Dissertation: *[Insert Dissertation Title if known, otherwise leave as is]*
 * **M.E. in Control Science and Engineering**, University of Electronic Science and Technology of China, Sept. 2017 -- June 2020
   * Advisor: Prof. Wenfeng Zheng
 * **B.E. in Electronic Information Engineering**, University of Electronic Science and Technology of China, Sept. 2013 -- June 2017
@@ -60,18 +59,7 @@ Professional Services
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching Experience
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
