@@ -1,43 +1,49 @@
 ---
 permalink: /
-title: "Empowering Distributed & Collaborative Intelligence"
-excerpt: "Research Scientist at Meta | Ph.D. from LSU"
+title: "Bridging Massive-Scale ML & Autonomous Agents"
+excerpt: "Research Scientist at Meta | Building Intelligence at Scale"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a **Research Scientist at Meta Platforms Inc.** based in Menlo Park, CA. My mission is to build AI systems that are as efficient as they are intelligent—bridging the gap between massive foundation models and the practical constraints of distributed hardware.
+I am a **Research Scientist at Meta Platforms Inc.** based in Menlo Park, CA, where I translate billion-scale user signals into measurable product wins. My work sits at the intersection of **Massive-Scale Machine Learning** and **Autonomous Systems**—bridging the gap between theoretical intelligence and practical, reliable application.
 
-My expertise lies at the intersection of **Federated Learning (FL)**, **Large Language Models (LLMs)**, and **Computer Vision (CV)**. I thrive on solving the "orchestration" problem of AI: how do we make thousands of diverse devices work together to learn, reason, and perceive the world?
+I believe the future of AI isn't just about bigger models, but about **smarter orchestration**. Whether optimizing graph neural networks for billions of users or building autonomous agent fleets, I focus on creating systems that are robust, efficient, and impactful.
 
-### 🔬 Research Pillars
+### 🚀 Impact at Scale (Meta)
 
-*   **Collaborative Intelligence (FL + Game Theory)**: I design incentive-driven mechanisms to make distributed training more robust. My work in *AAAI '25* introduced game-theoretic auctions to optimize how devices participate in the global learning process.
-*   **Foundation Models & Multi-Modal Alignment**: I explore how the reasoning power of LLMs can be applied to numerical and sensory data. By aligning text with time-series signals, I help create models that can "understand" temporal patterns through natural language.
-*   **Resource-Aware AI Optimization**: I specialize in the joint scheduling of devices and training tasks. My research in *IEEE IoT-J* focuses on maximizing model accuracy while strictly respecting the latency and energy limits of wireless and IoT networks.
+At Meta, I architect and deploy machine learning systems that power core discovery and integrity experiences for billions of users. My focus is on **turning complex signals into Tier-0 product wins**.
+
+*   **Scale:** Designed graph-based user representation learning systems that scale to billions of nodes, unlocking new capabilities for signal-sparse populations.
+*   **Efficiency:** Architected offline evaluation frameworks and training pipelines that significantly reduced compute overhead while accelerating iteration velocity for the entire team.
+*   **Product:** Led multiple high-impact launches across Instagram and Facebook, driving global engagement wins and integrity improvements through novel feature engineering and model architecture optimizations.
 
 ---
 
-### 🌟 Featured Impact
+### ⚡ The Frontier: Agentic Systems
+
+Beyond industrial ML, I am deeply invested in the future of **Collaborative AI and Multi-Agent Systems**. I believe the next leap in productivity comes from **workflow consolidation**—where specialized agents orchestrate complex tasks autonomously.
+
+**Current Exploration:**
+*   **Autonomous Orchestration:** Building upon "OpenClaw," a personal exploration into multi-agent fleets that can plan, execute, and self-heal.
+*   **Workflow Consolidation:** Moving beyond "chatbots" to "do-bots"—agents that integrate deep into tools and infrastructure to automate research and engineering loops.
+
+---
+
+### 🔬 Research Foundation
+
+My engineering is grounded in rigorous academic research. I earned my Ph.D. from **LSU**, focusing on Federated Learning and Distributed Optimization.
 
 **[DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game](https://j-bing.github.io/publication/2025-01-01-DualGFL-Federated-Learning-with-a-Dual-Level-Coalition-Auction-Game)**  
 *AAAI Conference on Artificial Intelligence (AAAI), 2025*  
-**The Insight:** Solves the instability of decentralized training by treating device participation as a competitive but fair game, ensuring faster and more reliable convergence.
+**The Insight:** Solves decentralized training instability using game-theoretic auctions for fair device participation.
 
 **[Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs](https://j-bing.github.io/publication/2025-01-01-Enhancing-Time-Series-Forecasting-via-Multi-Level-Text-Alignment-with-Large-Language-Models)**  
 *DASFAA, 2025*  
-**The Insight:** Bridges the gap between numerical sensor data and human-readable text, allowing Large Language Models to forecast complex trends with unprecedented context-awareness.
+**The Insight:** Bridges numerical sensor data with human-readable text to unlock LLM reasoning for complex forecasting.
 
 **[Joint Device and Training Scheduling for Wireless Federated Learning](https://j-bing.github.io/publication/2025-01-01-Joint-Device-and-Training-Scheduling-for-Wireless-Federated-Learning)**  
 *IEEE Internet of Things Journal, 2025*  
-**The Insight:** A blueprint for deploying AI on the edge, balancing the trade-offs between communication cost, energy consumption, and model performance.
-
----
-
-### 🎓 The Journey
-
-I received my Ph.D. in Electrical Engineering from **Louisiana State University (LSU)**, where I was supervised by [Prof. Xiangwei Zhou](https://www.ece.lsu.edu/xwzhou/). My academic foundation was built at the **University of Electronic Science and Technology of China (UESTC)**, where I earned my Master's and Bachelor's degrees.
-
-I believe the future of AI isn't just in bigger models, but in **smarter collaboration**. Whether at Meta or in my open research, I'm working to make that future a reality.
+**The Insight:** A blueprint for edge AI deployment, balancing communication cost, energy, and performance.
